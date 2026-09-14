@@ -1,9 +1,8 @@
 ---
-
 layout: default
 title: "Publications"
 permalink: /publications/
--------------------------
+---
 
 <div class="page-hero">
   <div class="section-label">📚 Publications</div>
@@ -26,7 +25,7 @@ permalink: /publications/
 
   <div class="publication-list">
 
-```
+
 <article class="publication-card">
   <div class="publication-year">2026</div>
   <div class="publication-content">
@@ -80,7 +79,7 @@ permalink: /publications/
     </div>
   </div>
 </article>
-```
+
 
   </div>
 
@@ -98,7 +97,7 @@ permalink: /publications/
 
   <div class="publication-list">
 
-```
+
 <article class="publication-card accepted">
   <div class="publication-year">Forthcoming</div>
   <div class="publication-content">
@@ -133,7 +132,7 @@ permalink: /publications/
     </div>
   </div>
 </article>
-```
+
 
   </div>
 
@@ -151,7 +150,7 @@ permalink: /publications/
 
   <div class="research-focus-grid">
 
-```
+
 <div class="focus-card">
   <div class="focus-icon">🩺</div>
   <h3>Health Communication</h3>
@@ -178,7 +177,7 @@ permalink: /publications/
     communication practices, and the mental health of marginalized groups.
   </p>
 </div>
-```
+
 
   </div>
 
