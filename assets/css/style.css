@@ -1,0 +1,555 @@
+/* =========================================
+   🌷 Global
+========================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+
+  margin: 0;
+
+  background: #fffafc;
+
+  color: #555;
+
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Microsoft YaHei",
+    Arial,
+    sans-serif;
+
+  line-height: 1.8;
+
+}
+
+
+/* =========================================
+   🌸 Header
+========================================= */
+
+.site-header {
+
+  background: rgba(255,255,255,0.95);
+
+  border-bottom: 1px solid #f4e1e7;
+
+  position: sticky;
+
+  top: 0;
+
+  z-index: 1000;
+
+  backdrop-filter: blur(10px);
+
+}
+
+
+.nav-container {
+
+  max-width: 1100px;
+
+  margin: auto;
+
+  padding: 18px 25px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+
+.site-logo {
+
+  font-size: 20px;
+
+  font-weight: 700;
+
+  color: #555 !important;
+
+  text-decoration: none !important;
+
+}
+
+
+.site-nav {
+
+  display: flex;
+
+  gap: 25px;
+
+}
+
+
+.site-nav a {
+
+  color: #777;
+
+  text-decoration: none;
+
+  font-size: 15px;
+
+  transition: 0.2s;
+
+}
+
+
+.site-nav a:hover {
+
+  color: #df7f9b;
+
+}
+
+
+/* =========================================
+   🌷 Main
+========================================= */
+
+.page-content {
+
+  max-width: 1100px;
+
+  margin: auto;
+
+  padding: 0 25px 60px;
+
+}
+
+
+/* =========================================
+   ✨ Hero
+========================================= */
+
+.hero {
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  gap: 60px;
+
+  padding: 80px 20px 70px;
+
+}
+
+
+.hero-text {
+
+  flex: 1;
+
+}
+
+
+.hello {
+
+  color: #df7f9b;
+
+  font-size: 16px;
+
+  font-weight: 600;
+
+}
+
+
+.hero h1 {
+
+  font-size: 48px;
+
+  line-height: 1.3;
+
+  color: #444;
+
+  margin: 15px 0;
+
+}
+
+
+.hero h1 span {
+
+  color: #df7f9b;
+
+}
+
+
+.subtitle {
+
+  font-size: 20px;
+
+  color: #999;
+
+}
+
+
+.intro {
+
+  font-size: 17px;
+
+  max-width: 650px;
+
+}
+
+
+.intro strong {
+
+  color: #d96f8e;
+
+}
+
+
+/* =========================================
+   👤 Profile
+========================================= */
+
+.hero-photo {
+
+  text-align: center;
+
+}
+
+
+.hero-photo img {
+
+  width: 220px;
+
+  height: 220px;
+
+  object-fit: cover;
+
+  border-radius: 50%;
+
+  border: 8px solid white;
+
+  box-shadow:
+    0 10px 35px rgba(0,0,0,0.08);
+
+}
+
+
+.hero-photo p {
+
+  color: #aaa;
+
+  font-size: 14px;
+
+}
+
+
+/* =========================================
+   💗 Buttons
+========================================= */
+
+.buttons {
+
+  margin-top: 30px;
+
+}
+
+
+.button {
+
+  display: inline-block;
+
+  padding: 9px 18px;
+
+  margin-right: 8px;
+
+  margin-bottom: 10px;
+
+  border-radius: 25px;
+
+  background: #f8dce5;
+
+  color: #555 !important;
+
+  text-decoration: none !important;
+
+  transition: all 0.25s;
+
+}
+
+
+.button:hover {
+
+  transform: translateY(-3px);
+
+  background: #f1c2d0;
+
+  box-shadow:
+    0 7px 20px rgba(0,0,0,0.08);
+
+}
+
+
+/* =========================================
+   🌷 Headings
+========================================= */
+
+h2 {
+
+  font-size: 30px;
+
+  color: #555;
+
+  margin-top: 70px;
+
+  margin-bottom: 25px;
+
+}
+
+
+h2::before {
+
+  content: "✿ ";
+
+  color: #df7f9b;
+
+}
+
+
+h3 {
+
+  color: #555;
+
+}
+
+
+/* =========================================
+   🔬 Research Cards
+========================================= */
+
+.research-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 20px;
+
+}
+
+
+.research-card {
+
+  background: white;
+
+  padding: 25px;
+
+  border-radius: 20px;
+
+  border: 1px solid #f3e5e9;
+
+  box-shadow:
+    0 5px 20px rgba(0,0,0,0.04);
+
+  transition: all 0.25s;
+
+}
+
+
+.research-card:hover {
+
+  transform: translateY(-5px);
+
+  box-shadow:
+    0 12px 30px rgba(0,0,0,0.08);
+
+}
+
+
+/* =========================================
+   🎓 Timeline
+========================================= */
+
+.timeline {
+
+  border-left: 3px solid #f2cbd7;
+
+  padding-left: 30px;
+
+  margin-left: 10px;
+
+}
+
+
+.timeline-item {
+
+  position: relative;
+
+  margin-bottom: 40px;
+
+}
+
+
+.timeline-item::before {
+
+  content: "";
+
+  width: 13px;
+
+  height: 13px;
+
+  border-radius: 50%;
+
+  background: #df7f9b;
+
+  position: absolute;
+
+  left: -38px;
+
+  top: 10px;
+
+}
+
+
+/* =========================================
+   📝 Quote
+========================================= */
+
+.quote {
+
+  background: #fff0f4;
+
+  border-radius: 20px;
+
+  padding: 30px;
+
+  margin-top: 25px;
+
+  font-size: 18px;
+
+  color: #666;
+
+}
+
+
+/* =========================================
+   📚 Publications
+========================================= */
+
+.page-content h3 {
+
+  margin-top: 35px;
+
+}
+
+
+.page-content a {
+
+  color: #d87593;
+
+}
+
+
+.page-content a:hover {
+
+  color: #b84f70;
+
+}
+
+
+/* =========================================
+   🌸 Footer
+========================================= */
+
+.site-footer {
+
+  text-align: center;
+
+  padding: 40px 20px;
+
+  margin-top: 50px;
+
+  border-top: 1px solid #f0dfe4;
+
+  color: #aaa;
+
+  font-size: 14px;
+
+  background: #fff;
+
+}
+
+
+/* =========================================
+   📱 Mobile
+========================================= */
+
+@media screen and (max-width: 700px) {
+
+
+  .nav-container {
+
+    flex-direction: column;
+
+    gap: 10px;
+
+  }
+
+
+  .site-nav {
+
+    gap: 15px;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+  }
+
+
+  .hero {
+
+    flex-direction: column-reverse;
+
+    text-align: center;
+
+    padding: 50px 10px;
+
+  }
+
+
+  .hero h1 {
+
+    font-size: 36px;
+
+  }
+
+
+  .intro {
+
+    margin: auto;
+
+  }
+
+
+  .research-grid {
+
+    grid-template-columns: 1fr;
+
+  }
+
+
+  .hero-photo img {
+
+    width: 180px;
+
+    height: 180px;
+
+  }
+
+
+}
