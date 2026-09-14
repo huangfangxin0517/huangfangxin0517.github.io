@@ -1,0 +1,17 @@
+title: "黄芳薪 🌷"
+
+description: "Personal Academic Homepage"
+
+url: "https://huangfangxin0517.github.io"
+
+author:
+  name: "黄芳薪"
+  email: "1481257575@qq.com"
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
