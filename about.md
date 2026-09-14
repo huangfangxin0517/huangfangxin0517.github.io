@@ -30,7 +30,7 @@ permalink: /about/
   to the relationship between media, communication environments, and the
   mental health of marginalized groups.
 </p>
-```
+
 
   </section>
 
