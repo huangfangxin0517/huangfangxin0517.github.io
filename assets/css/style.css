@@ -553,3 +553,446 @@ h3 {
 
 
 }
+/* =========================================
+   Beyond Academia
+   ========================================= */
+
+.beyond-page {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 20px 20px 70px;
+}
+
+
+/* ---------- Hero ---------- */
+
+.beyond-hero {
+  text-align: center;
+  padding: 55px 20px 45px;
+}
+
+.beyond-hero-icon {
+  font-size: 42px;
+  margin-bottom: 12px;
+}
+
+.beyond-hero h1 {
+  margin: 0;
+  font-size: 42px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.beyond-subtitle {
+  margin: 15px 0 3px;
+  font-size: 17px;
+  opacity: 0.78;
+}
+
+.beyond-subtitle-cn {
+  margin: 0;
+  font-size: 14px;
+  opacity: 0.58;
+}
+
+
+/* ---------- Sections ---------- */
+
+.beyond-section {
+  margin-top: 42px;
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-bottom: 20px;
+}
+
+.section-icon {
+  font-size: 27px;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.section-heading p {
+  margin: 3px 0 0;
+  font-size: 13px;
+  opacity: 0.55;
+}
+
+
+/* ---------- Personality ---------- */
+
+.personality-card {
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px solid rgba(225, 170, 190, 0.32);
+  border-radius: 24px;
+  padding: 32px;
+  box-shadow: 0 10px 30px rgba(180, 120, 145, 0.08);
+}
+
+.personality-tags,
+.personality-tags-cn {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.personality-tags span {
+  padding: 7px 14px;
+  border-radius: 20px;
+  background: #fff1f5;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.personality-tags-cn {
+  margin-top: 10px;
+}
+
+.personality-tags-cn span {
+  padding: 6px 12px;
+  border-radius: 18px;
+  background: #faf6f7;
+  font-size: 12px;
+  opacity: 0.72;
+}
+
+.personality-text {
+  max-width: 850px;
+  margin-top: 25px;
+  line-height: 1.85;
+  font-size: 15px;
+}
+
+.personality-text p {
+  margin-bottom: 15px;
+}
+
+.personality-cn {
+  padding-top: 5px;
+  font-size: 14px;
+  opacity: 0.72;
+}
+
+
+/* ---------- Hobby Cards ---------- */
+
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.hobby-card {
+  padding: 26px 23px;
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(225, 170, 190, 0.27);
+  border-radius: 22px;
+  box-shadow: 0 8px 25px rgba(180, 120, 145, 0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hobby-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 13px 30px rgba(180, 120, 145, 0.12);
+}
+
+.hobby-icon {
+  font-size: 31px;
+  margin-bottom: 13px;
+}
+
+.hobby-card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.hobby-cn {
+  margin: 4px 0 11px;
+  font-size: 13px;
+  opacity: 0.58;
+}
+
+.hobby-card > p:last-child {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.7;
+  opacity: 0.72;
+}
+
+
+/* ---------- Little Things ---------- */
+
+.little-things-card {
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(225, 170, 190, 0.28);
+  border-radius: 24px;
+  padding: 30px;
+  box-shadow: 0 8px 28px rgba(180, 120, 145, 0.07);
+}
+
+.little-things-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.little-things-list span {
+  padding: 10px 17px;
+  background: #fff5f7;
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+.little-things-quote {
+  max-width: 780px;
+  margin: 30px auto 0;
+  padding-top: 25px;
+  border-top: 1px solid rgba(210, 160, 180, 0.2);
+  text-align: center;
+}
+
+.little-things-quote p {
+  margin: 0;
+  line-height: 1.8;
+  font-size: 15px;
+  font-style: italic;
+  opacity: 0.78;
+}
+
+.little-things-quote .quote-cn {
+  margin-top: 12px;
+  font-size: 13px;
+  opacity: 0.58;
+  font-style: normal;
+}
+
+
+/* ---------- Motto ---------- */
+
+.motto-section {
+  margin-top: 55px;
+}
+
+.motto-card {
+  position: relative;
+  text-align: center;
+  padding: 55px 30px;
+  border-radius: 30px;
+  background: linear-gradient(
+    135deg,
+    #fff5f7 0%,
+    #fffafa 50%,
+    #fff2f6 100%
+  );
+  border: 1px solid rgba(225, 170, 190, 0.3);
+  box-shadow: 0 12px 35px rgba(180, 120, 145, 0.1);
+  overflow: hidden;
+}
+
+.motto-card::before {
+  content: "✦";
+  position: absolute;
+  top: 22px;
+  left: 35px;
+  font-size: 20px;
+  opacity: 0.35;
+}
+
+.motto-card::after {
+  content: "✦";
+  position: absolute;
+  bottom: 22px;
+  right: 35px;
+  font-size: 20px;
+  opacity: 0.35;
+}
+
+.motto-flower {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.motto-label {
+  margin: 0 0 18px;
+  font-size: 11px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  opacity: 0.55;
+}
+
+.motto-card h2 {
+  margin: 0;
+  font-size: 31px;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+}
+
+.motto-cn {
+  margin: 18px 0 0;
+  font-size: 16px;
+  line-height: 1.8;
+  opacity: 0.68;
+}
+
+.motto-divider {
+  width: 55px;
+  height: 1px;
+  margin: 25px auto;
+  background: rgba(180, 120, 145, 0.3);
+}
+
+.motto-small {
+  margin: 0;
+  font-size: 13px;
+  font-style: italic;
+  opacity: 0.58;
+}
+
+.motto-small-cn {
+  margin: 7px 0 0;
+  font-size: 12px;
+  opacity: 0.48;
+}
+
+
+/* ---------- Closing ---------- */
+
+.beyond-closing {
+  text-align: center;
+  padding: 55px 20px 10px;
+}
+
+.closing-line {
+  font-size: 17px;
+  letter-spacing: 7px;
+  opacity: 0.45;
+}
+
+.beyond-closing p {
+  margin: 20px 0 0;
+  font-size: 15px;
+  line-height: 1.8;
+  opacity: 0.68;
+}
+
+.beyond-closing .closing-cn {
+  margin-top: 8px;
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+
+/* =========================================
+   Responsive Design
+   ========================================= */
+
+@media (max-width: 800px) {
+
+  .beyond-page {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .beyond-hero {
+    padding-top: 35px;
+  }
+
+  .beyond-hero h1 {
+    font-size: 34px;
+  }
+
+  .hobby-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .personality-card,
+  .little-things-card {
+    padding: 25px;
+  }
+
+  .motto-card {
+    padding: 45px 22px;
+  }
+
+  .motto-card h2 {
+    font-size: 27px;
+  }
+}
+
+
+@media (max-width: 560px) {
+
+  .beyond-hero {
+    padding: 25px 10px 35px;
+  }
+
+  .beyond-hero h1 {
+    font-size: 30px;
+  }
+
+  .beyond-subtitle {
+    font-size: 15px;
+  }
+
+  .section-heading h2 {
+    font-size: 22px;
+  }
+
+  .hobby-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .personality-card {
+    padding: 22px;
+    border-radius: 20px;
+  }
+
+  .personality-tags span,
+  .personality-tags-cn span {
+    font-size: 12px;
+  }
+
+  .personality-text {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+
+  .little-things-card {
+    padding: 22px 17px;
+  }
+
+  .little-things-list {
+    gap: 8px;
+  }
+
+  .little-things-list span {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .motto-card {
+    padding: 40px 18px;
+    border-radius: 24px;
+  }
+
+  .motto-card h2 {
+    font-size: 25px;
+  }
+
+  .motto-cn {
+    font-size: 14px;
+  }
+
+  .beyond-closing {
+    padding-top: 40px;
+  }
+
+}
