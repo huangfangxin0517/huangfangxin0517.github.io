@@ -18,7 +18,7 @@ permalink: /about/
     <div class="about-icon">🎓</div>
     <h2>Academic Identity</h2>
 
-```
+
 <p>
   I am currently a Ph.D. student at the School of Journalism and
   Communication, Nanjing University.
@@ -38,7 +38,7 @@ permalink: /about/
     <div class="about-icon">🔬</div>
     <h2>Research Interests</h2>
 
-```
+
 <ul class="interest-list">
   <li>Health Communication</li>
   <li>Accessible Communication</li>
@@ -47,7 +47,7 @@ permalink: /about/
   <li>Digital Communication</li>
   <li>AI & Communication</li>
 </ul>
-```
+
 
   </section>
 
@@ -65,7 +65,7 @@ permalink: /about/
 
   <div class="timeline">
 
-```
+
 <div class="timeline-item">
   <div class="timeline-date">2026 — Present</div>
   <div class="timeline-content">
@@ -105,7 +105,7 @@ permalink: /about/
     </span>
   </div>
 </div>
-```
+
 
   </div>
 
@@ -123,7 +123,7 @@ permalink: /about/
 
   <div class="interdisciplinary-box">
 
-```
+
 <div class="discipline">
   <span>01</span>
   <h3>Mathematics</h3>
@@ -151,7 +151,7 @@ permalink: /about/
     Communication, health, accessibility and the experiences of marginalized groups.
   </p>
 </div>
-```
+
 
   </div>
 
