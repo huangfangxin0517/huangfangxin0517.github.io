@@ -18,20 +18,24 @@ title: "Home"
     <p class="subtitle">
       Ph.D. Student in Journalism and Communication
       <br>
-      Nanjing University
+      School of Journalism and Communication · Nanjing University
     </p>
 
     <p class="intro">
-      我是一名新闻传播学博士研究生，主要关注
+      我是南京大学新闻传播学院新闻传播学博士研究生，
+      师从<strong>李东晓教授</strong>。
+      <br><br>
+      我的主要研究方向为
       <strong>健康传播与无障碍传播</strong>，
-      同时对数字传播、人工智能与传播以及计算传播等交叉议题保持兴趣。
+      关注媒介环境中的边缘群体及其心理健康、
+      信息可及性与传播公平等问题。
       <br><br>
       欢迎来到我的个人学术主页！🌷
     </p>
 
     <div class="buttons">
 
-      <a href="mailto:1481257575@qq.com" class="button">
+      <a href="mailto:fangxinhuang@smail.nju.edu.cn" class="button">
         📮 Email
       </a>
 
@@ -70,27 +74,33 @@ title: "Home"
   <div class="card">
 
     <p>
-      我目前就读于
-      <strong>南京大学新闻传播学博士项目</strong>，
-      主要研究方向为
-      <strong>健康传播与无障碍传播</strong>。
+      我目前是
+      <strong>南京大学新闻传播学院新闻传播学博士研究生</strong>，
+      于 <strong>2026 年 9 月</strong> 入学，
+      师从<strong>李东晓教授</strong>。
     </p>
 
     <p>
-      我的学术训练具有跨学科特征。本科阶段就读于
-      <strong>华侨大学数学与应用数学专业</strong>，
+      我的主要研究方向为
+      <strong>健康传播与无障碍传播</strong>，
+      关注媒介技术与传播环境如何影响边缘群体的
+      信息获取、社会参与与心理健康。
+    </p>
+
+    <p>
+      在具体研究中，我关注健康信息传播、
+      数字媒介、传播可及性、无障碍传播以及
+      边缘群体的媒介使用与心理健康等议题，
+      希望从传播学视角理解不同群体在数字社会中的
+      信息权利与传播处境。
+    </p>
+
+    <p>
+      我的学术训练具有跨学科特征。
+      本科阶段就读于<strong>华侨大学数学与应用数学专业</strong>，
       接受了系统的数学、统计与量化分析训练；
-      随后进入
-      <strong>贵州大学新闻与传播专业</strong>
-      学习，在传播学理论与社会科学研究方法的基础上，
-      逐渐形成了将量化方法与传播研究结合的学术兴趣。
-    </p>
-
-    <p>
-      目前，我主要关注健康信息传播、传播可及性、
-      无障碍传播以及数字媒介环境中的传播不平等问题。
-      同时，我也持续关注人工智能、社交媒体与计算传播等
-      技术变迁对传播实践与社会关系产生的影响。
+      随后进入<strong>贵州大学新闻与传播专业</strong>学习，
+      逐渐形成了将量化研究方法与传播理论结合的研究路径。
     </p>
 
   </div>
@@ -117,8 +127,9 @@ title: "Home"
       </h3>
 
       <p>
-        健康信息传播、数字健康、健康信息行为、
-        网络社会支持以及健康传播中的社会关系与传播机制。
+        关注健康信息传播、数字健康、
+        健康信息行为、网络社会支持，
+        以及媒介环境中的心理健康议题。
       </p>
 
     </div>
@@ -135,8 +146,28 @@ title: "Home"
       </h3>
 
       <p>
-        无障碍传播、信息可及性、数字无障碍、
-        残障与传播以及不同群体的媒介参与和传播公平。
+        关注无障碍传播、信息可及性、
+        数字无障碍、残障与传播，
+        以及不同群体的传播参与和传播公平。
+      </p>
+
+    </div>
+
+
+    <div class="research-card">
+
+      <div class="icon">
+        🧠
+      </div>
+
+      <h3>
+        Media & Mental Health
+      </h3>
+
+      <p>
+        关注媒介使用、健康信息环境与
+        边缘群体心理健康之间的关系，
+        探索媒介环境中的心理健康支持机制。
       </p>
 
     </div>
@@ -149,30 +180,13 @@ title: "Home"
       </div>
 
       <h3>
-        Digital & Social Media
+        Digital Communication
       </h3>
 
       <p>
-        数字媒介与社交媒体环境中的信息传播、
-        用户行为以及平台技术对传播实践的影响。
-      </p>
-
-    </div>
-
-
-    <div class="research-card">
-
-      <div class="icon">
-        🤖
-      </div>
-
-      <h3>
-        AI & Computational Communication
-      </h3>
-
-      <p>
-        人工智能与传播、计算传播以及
-        数据驱动的传播研究方法与传播现象分析。
+        关注数字媒介、社交媒体与人工智能
+        对健康传播、信息可及性及社会参与
+        所产生的影响。
       </p>
 
     </div>
@@ -195,41 +209,71 @@ title: "Home"
     </h3>
 
     <p>
-      My current research interests center on
-      <strong>health communication and accessible communication</strong>.
+      My current research centers on
+      <strong>health communication and accessible communication</strong>,
+      with particular attention to
+      <strong>media, marginalized groups, and mental health</strong>.
     </p>
 
     <p>
-      I am particularly interested in how digital media,
-      communication technologies, and social environments
-      shape people's access to health information,
-      communication participation, and social support.
+      I am interested in how media environments and
+      communication technologies shape people's access to
+      health information, psychological support,
+      and opportunities for communication participation.
     </p>
 
     <p>
-      I also seek to understand how accessibility and
-      communication inequalities emerge in increasingly
-      digitalized communication environments.
+      I also seek to explore how communication accessibility
+      and inequality are produced, experienced, and potentially
+      transformed in increasingly digitalized media environments.
     </p>
+
+  </div>
+
+</section>
+
+
+<!-- ==================== Academic Trajectory ==================== -->
+
+<section class="section">
+
+  <h2>🌱 Academic Trajectory</h2>
+
+  <div class="quote">
+
+    <p>
+      “From Mathematics to Communication”
+    </p>
+
+    <span>
+      Quantitative thinking meets communication research.
+    </span>
 
   </div>
 
 
   <div class="card">
 
-    <h3>
-      🤖 Previous Research: AI & Computational Communication
-    </h3>
-
     <p>
-      在硕士阶段，我围绕人工智能传播、计算传播、
-      社交媒体以及国际传播开展了多项研究。
+      我的学术经历始于数学与应用数学。
+      本科阶段的数学训练为我建立了数理逻辑、
+      统计分析和量化研究基础。
     </p>
 
     <p>
-      相关研究包括高校青年群体的大模型使用、
-      LLM 与网络社会支持、社交机器人与计算宣传、
-      数字平台与中国软实力国际传播等议题。
+      硕士阶段进入新闻传播学领域后，
+      我逐渐将数学背景与传播学理论和
+      社会科学研究方法结合，
+      开展了人工智能传播、计算传播、
+      健康传播和国际传播等方面的研究。
+    </p>
+
+    <p>
+      进入南京大学新闻传播学院攻读博士后，
+      我的研究进一步聚焦于
+      <strong>健康传播与无障碍传播</strong>，
+      特别关注媒介环境中的
+      <strong>边缘群体与心理健康</strong>。
     </p>
 
   </div>
@@ -359,7 +403,7 @@ title: "Home"
     <div class="timeline-item">
 
       <div class="timeline-date">
-        Present
+        2026 – Present
       </div>
 
       <div class="timeline-content">
@@ -369,7 +413,15 @@ title: "Home"
         </h3>
 
         <p>
-          <strong>Ph.D. in Journalism and Communication</strong>
+          <strong>
+            Ph.D. in Journalism and Communication
+          </strong>
+        </p>
+
+        <p>
+          School of Journalism and Communication
+          <br>
+          Advisor: Prof. Dongxiao Li
         </p>
 
         <p>
@@ -395,13 +447,15 @@ title: "Home"
         </h3>
 
         <p>
-          <strong>M.A. in Journalism and Communication</strong>
+          <strong>
+            M.A. in Journalism and Communication
+          </strong>
         </p>
 
         <p>
           Research interests included computational communication,
-          health communication, international communication,
-          and digital media.
+          health communication, AI and communication,
+          and international communication.
         </p>
 
       </div>
@@ -422,7 +476,9 @@ title: "Home"
         </h3>
 
         <p>
-          <strong>B.S. in Mathematics and Applied Mathematics</strong>
+          <strong>
+            B.S. in Mathematics and Applied Mathematics
+          </strong>
         </p>
 
         <p>
@@ -440,44 +496,38 @@ title: "Home"
 </section>
 
 
-<!-- ==================== Research Background ==================== -->
+<!-- ==================== Selected Research Experience ==================== -->
 
 <section class="section">
 
-  <h2>📊 Interdisciplinary Background</h2>
+  <h2>🔬 Selected Research Experience</h2>
 
-  <div class="quote">
+  <div class="card">
+
+    <h3>
+      🤖 Computational Communication & Social Bots
+    </h3>
 
     <p>
-      “From Mathematics to Communication”
+      硕士阶段围绕计算宣传、社交机器人、
+      人类账户与国际舆论传播开展研究，
+      以俄乌战争社交媒体舆论为案例，
+      探讨非人类传播主体参与国际舆论场的方式。
     </p>
-
-    <span>
-      Quantitative thinking meets communication research.
-    </span>
 
   </div>
 
 
   <div class="card">
 
-    <p>
-      我的本科专业为数学与应用数学。
-      数学训练使我具备较为扎实的数理逻辑、
-      统计分析与量化研究基础。
-    </p>
+    <h3>
+      🧠 AI & Health Communication
+    </h3>
 
     <p>
-      在新闻传播学学习过程中，我逐渐将这一方法优势
-      与传播理论、社会科学研究方法结合，
-      并形成了对计算传播、数字传播以及健康传播等
-      交叉议题的研究兴趣。
-    </p>
-
-    <p>
-      这种跨学科背景也使我更加关注：
-      如何通过数据与理论相结合的方式，
-      理解数字时代复杂的传播现象及其社会意义。
+      围绕大语言模型、网络社会支持、
+      进食障碍者以及人工智能健康传播等议题
+      开展实证研究，关注数字技术与健康传播之间的关系。
     </p>
 
   </div>
@@ -495,26 +545,10 @@ title: "Home"
 
     <p>
       <strong>
-        计算宣传视域下社交机器人—人类账户耦合舆论传播模型研究
-      </strong>
-      <br>
-      APCA 2025 · 澳门
-    </p>
-
-    <p>
-      <strong>
-        数字平台驱动的转译：中国软实力国际传播的生活政治机制建构
-      </strong>
-      <br>
-      2025 中国国际传播学术年会
-    </p>
-
-    <p>
-      <strong>
         数智疗愈：进食障碍者网络社会支持的三重流动机制
       </strong>
       <br>
-      中国新闻史学会健康传播专业委员会年会 · 兰州
+      中国新闻史学会健康传播专业委员会年会 · 兰州 · 2025
     </p>
 
     <p>
@@ -523,13 +557,30 @@ title: "Home"
         AI 客服沟通风格对消费者行为决策的影响机制研究
       </strong>
       <br>
-      人机传播、心理与社会变迁国际研究工作坊 · 深圳
+      人机传播、心理与社会变迁国际研究工作坊 · 深圳 · 2025
+    </p>
+
+    <p>
+      <strong>
+        计算宣传视域下社交机器人—人类账户耦合舆论传播模型研究
+      </strong>
+      <br>
+      APCA 2025 · 澳门
+    </p>
+
+    <p>
+      <strong>
+        当“银发族”进入直播间：
+        赋权视角下老年人观看直播行为研究
+      </strong>
+      <br>
+      “新媒体公共传播”学术年会 · 郑州 · 2024
     </p>
 
     <div class="buttons">
 
       <a href="/conferences" class="button">
-        🎤 View Conference Presentations →
+        🎤 View All Conferences →
       </a>
 
     </div>
@@ -543,7 +594,7 @@ title: "Home"
 
 <section class="section">
 
-  <h2>🏆 Selected Awards & Honors</h2>
+  <h2>🏆 Selected Awards</h2>
 
   <div class="research-grid">
 
@@ -574,7 +625,7 @@ title: "Home"
       </div>
 
       <h3>
-        Academic Scholarships
+        Academic Honors
       </h3>
 
       <p>
@@ -617,63 +668,18 @@ title: "Home"
 </section>
 
 
-<!-- ==================== Professional Experience ==================== -->
-
-<section class="section">
-
-  <h2>📰 Selected Professional Experience</h2>
-
-  <div class="card">
-
-    <h3>
-      新华网 · 实习记者
-    </h3>
-
-    <p class="publication-meta">
-      2024.10 – 2025.04
-    </p>
-
-    <p>
-      参与新闻选题策划、采访、写作与编辑等完整采编流程。
-      参与生产的报道获得多家主流媒体转载，
-      其中部分报道登上新华网总网。
-    </p>
-
-  </div>
-
-
-  <div class="card">
-
-    <h3>
-      “看中国·外国青年影像计划” · 媒体专员
-    </h3>
-
-    <p class="publication-meta">
-      2024.06
-    </p>
-
-    <p>
-      参与国际传播项目的跨文化拍摄与制作执行，
-      积累跨文化沟通与国际传播实践经验。
-    </p>
-
-  </div>
-
-</section>
-
-
 <!-- ==================== Methods ==================== -->
 
 <section class="section">
 
-  <h2>📐 Methods & Tools</h2>
+  <h2>📊 Methods & Tools</h2>
 
   <div class="research-grid">
 
     <div class="research-card">
 
       <div class="icon">
-        📊
+        📐
       </div>
 
       <h3>
@@ -682,7 +688,7 @@ title: "Home"
 
       <p>
         Descriptive Statistics · Correlation Analysis
-        · Regression Analysis · SEM
+        · Regression Analysis · Structural Equation Modeling
         · Data Cleaning
       </p>
 
@@ -710,6 +716,28 @@ title: "Home"
 </section>
 
 
+<!-- ==================== Academic Profiles ==================== -->
+
+<section class="section">
+
+  <h2>🔗 Academic Profiles</h2>
+
+  <div class="card">
+
+    <p>
+      🆔
+      <strong>ORCID</strong>
+      <br>
+      <a href="https://orcid.org/0009-0007-4415-0245" target="_blank">
+        0009-0007-4415-0245
+      </a>
+    </p>
+
+  </div>
+
+</section>
+
+
 <!-- ==================== Contact ==================== -->
 
 <section class="section">
@@ -724,16 +752,16 @@ title: "Home"
 
     <p>
       📮
-      <a href="mailto:1481257575@qq.com">
-        1481257575@qq.com
+      <a href="mailto:fangxinhuang@smail.nju.edu.cn">
+        fangxinhuang@smail.nju.edu.cn
       </a>
     </p>
 
     <p>
-      📮
-      <a href="mailto:huangfangxin517@163.com">
-        huangfangxin517@163.com
-      </a>
+      🎓
+      Nanjing University
+      <br>
+      School of Journalism and Communication
     </p>
 
   </div>
@@ -746,11 +774,11 @@ title: "Home"
 <div class="quote">
 
   <p>
-    🌷 Research with curiosity, communicate with purpose.
+    🌷 Research with curiosity, communicate with care.
   </p>
 
   <span>
-    Data · Technology · Health · Accessibility
+    Health · Accessibility · Media · Society
   </span>
 
 </div>
