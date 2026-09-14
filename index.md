@@ -47,9 +47,9 @@ title: "Home"
 
   <div class="hero-photo">
 
-    <img
-      src="/images/profile.jpg"
-      alt="黄芳薪">
+ <img
+  src="{{ '/images/profile.jpg' | relative_url }}"
+  alt="黄芳薪">
 
     <p>
       ☕ Research · Writing · Thinking
