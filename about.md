@@ -1,9 +1,8 @@
 ---
-
 layout: default
 title: "About"
 permalink: /about/
-------------------
+---
 
 <div class="page-hero">
   <div class="section-label">🌷 About Me</div>
